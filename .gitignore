@@ -1,0 +1,5 @@
+*obj
+*/bin/*
+*bin
+*idea
+/Example/Examples.sln.DotSettings.user

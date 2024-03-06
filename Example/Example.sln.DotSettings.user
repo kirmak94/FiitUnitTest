@@ -1,0 +1,33 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8ecac385_002D546c_002D464c_002Da5e0_002Db287f8f20b62/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AreEqualTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;And&gt;&#xD;
+      &lt;Or&gt;&#xD;
+        &lt;Project Location="C:\Users\k.kuznetsov\RiderProjects\Example\AssertExamples" Presentation="&amp;lt;AssertExamples&amp;gt;" /&gt;&#xD;
+        &lt;TestAncestor&gt;&#xD;
+          &lt;TestId&gt;NUnit3x::4CD60E8F-AD20-4E34-92B2-3E746239169A::net7.0::ParallelizationExamples.FirstClass&lt;/TestId&gt;&#xD;
+          &lt;TestId&gt;NUnit3x::4CD60E8F-AD20-4E34-92B2-3E746239169A::net7.0::ParallelizationExamples.SecondClass&lt;/TestId&gt;&#xD;
+          &lt;TestId&gt;NUnit3x::4CD60E8F-AD20-4E34-92B2-3E746239169A::net7.0::ParallelizationExamples.ThirdClass&lt;/TestId&gt;&#xD;
+        &lt;/TestAncestor&gt;&#xD;
+      &lt;/Or&gt;&#xD;
+      &lt;Not&gt;&#xD;
+        &lt;And&gt;&#xD;
+          &lt;Or&gt;&#xD;
+            &lt;Project Location="C:\Users\k.kuznetsov\RiderProjects\Example\AssertExamples" Presentation="&amp;lt;AssertExamples&amp;gt;" /&gt;&#xD;
+            &lt;TestAncestor&gt;&#xD;
+              &lt;TestId&gt;NUnit3x::4CD60E8F-AD20-4E34-92B2-3E746239169A::net7.0::ParallelizationExamples.FirstClass&lt;/TestId&gt;&#xD;
+              &lt;TestId&gt;NUnit3x::4CD60E8F-AD20-4E34-92B2-3E746239169A::net7.0::ParallelizationExamples.SecondClass&lt;/TestId&gt;&#xD;
+              &lt;TestId&gt;NUnit3x::4CD60E8F-AD20-4E34-92B2-3E746239169A::net7.0::ParallelizationExamples.ThirdClass&lt;/TestId&gt;&#xD;
+            &lt;/TestAncestor&gt;&#xD;
+          &lt;/Or&gt;&#xD;
+          &lt;Project Location="C:\Users\k.kuznetsov\RiderProjects\Example\AssertExamples" Presentation="&amp;lt;AssertExamples&amp;gt;" /&gt;&#xD;
+        &lt;/And&gt;&#xD;
+      &lt;/Not&gt;&#xD;
+    &lt;/And&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::0AC9CD46-C697-4CA2-AEBD-6935B37871BC::net7.0::Calculator.Test1&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::0AC9CD46-C697-4CA2-AEBD-6935B37871BC::net7.0::Calculator.CheckPassword_Should_ReturnFalse_When_EmptyPassword&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::0AC9CD46-C697-4CA2-AEBD-6935B37871BC::net7.0::Calculator.ValidateTest&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
